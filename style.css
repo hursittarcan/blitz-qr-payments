@@ -23,7 +23,7 @@ body{
     width: 320px;
     margin: auto;
     background-color: var(--White);
-    padding: 16px 0px 41px 0px;
+    padding: 16px 0 41px 0;
     border-radius: 20px;
     height: auto;
     box-shadow: 1px 10px 22px 9px rgba(0, 0, 0, 0.05);
@@ -71,7 +71,7 @@ p{
     color: white;
     height: 40px;
     position: fixed;
-    bottom:0%;
+    bottom:0;
     width:100%;
     opacity: 1;
 }
