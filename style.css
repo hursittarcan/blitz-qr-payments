@@ -37,7 +37,6 @@ body{
     width: 288px;
     height: 288px;
     border-radius: 10px;
-    margin: auto;
     display: block;
     margin: auto auto 25px auto;
 }
@@ -46,7 +45,7 @@ h2{
     max-width: 254px;
     text-align: center;
     font-size: 21px;
-    font-family: Outfit;
+    font-family: Outfit, sans-serif;
     font-weight: 700;
     line-height: 27.09px;
     letter-spacing: 0.53px;
@@ -59,7 +58,7 @@ p{
     max-width: 254px;
     color: #7B879D;
     font-size: 15px;
-    font-family: Outfit;
+    font-family: Outfit, sans-serif;
     font-weight: 500;
     line-height: 19.35px;
     letter-spacing: 0.15px;
